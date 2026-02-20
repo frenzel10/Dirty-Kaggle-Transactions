@@ -9,7 +9,7 @@
 
 ## Process
 1. Searched for large financial dataset with inconsistencies
-2. Filetered & sorted table, removed duplicates
+2. Filtered & sorted table, removed duplicates
 3. Formatted dates, highlighted incorrect dates
 
 ## Screenshots
