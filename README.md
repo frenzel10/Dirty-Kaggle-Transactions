@@ -14,9 +14,26 @@
 
 ## Screenshots
 [Raw data]
-<img width="855" height="539" alt="Screenshot 2026-02-11 at 11 55 51 AM" src="https://github.com/user-attachments/assets/a8643628-c7bf-4a21-8c4c-c008fb407d90" />
-<img width="855" height="539" alt="Screenshot 2026-02-11 at 11 53 39 AM" src="https://github.com/user-attachments/assets/5220b719-aace-4394-81f7-0023aaec283a" />
+
+<img width="855" height="539" alt="Raw1png" src="https://github.com/user-attachments/assets/9984b76e-2e00-4708-9a67-d6127b7f118d" />
+<img width="855" height="539" alt="RAw2Png" src="https://github.com/user-attachments/assets/45afd9c9-053c-435b-8d4a-c2c1a552a18f" />
+
+
+ 
 
 [Cleaned data]
-<img width="925" height="500" alt="Screenshot 2026-01-18 at 8 32 00 PM" src="https://github.com/user-attachments/assets/9b7dfc78-5cf6-4c17-8297-ace657a47656" />
-<img width="925" height="500" alt="Screenshot 2026-01-18 at 8 27 29 PM" src="https://github.com/user-attachments/assets/2f213750-3e1b-4e63-a8c5-140f1de2de66" />
+<img width="925" height="500" alt="SS1PNg" src="https://github.com/user-attachments/assets/f3c7adac-357d-46b8-85cf-e48899f5c405" />
+
+<img width="925" height="500" alt="SS2Png" src="https://github.com/user-attachments/assets/d5b63a89-3d0f-4494-99ee-e54fb2efa69d" />
+
+[Results]
+- Removed 994 duplicates
+- Converted malformed date strings to valid dates
+- Standardized occupation/risk categories
+- Price column cleaned to numeric where price exists; blanks preserved as non-numeric
+
+[Insights]
+- High-risk tolerance customers had more suspicious flags
+- Suspicious amounts skewed higher in certain regions
+
+<img width="998" height="539" alt="Sum1" src="https://github.com/user-attachments/assets/7e5b3289-0fe0-4264-a413-f50b3ffccbc4" />
